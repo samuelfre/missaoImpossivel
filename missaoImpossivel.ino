@@ -1,8 +1,3 @@
-/*******************************************************************************
-* RoboCore Kit Iniciante V8 - 14. Projeto Missão Impossível 2
-* Aciona um alarme se algum objeto cruzar o feixe do diodo lazer.
-*******************************************************************************/
-
 // Declaração dos pinos dos componentes
 const int pinoLDR = A0;
 const int pinoBuzzer = 9;
